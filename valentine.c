@@ -10,8 +10,8 @@
  18,   3,3,1};int main(){int y[]={1,2,2,3,4,5   ,6,
   8,9   ,11,12,14,15,17,18,19,21,22,24,25} ;   int
   i=0   ;int c=0;for(;i<a;){int j=0;for(;j <   52;
-   ) {   int k=0;while(k<x[i]){j++;k++;if(c   ) {
-    s()   ;}else{h();}c=!c;i++;}p("\n");c=   0;}
+   ) {   int k=0;while(k<x[i]){j++;k++;if(!   c){
+    s()   ;}zz{h();}}i++; c=!c;}p("\n");c=   0;}
      for   (int ib=0;ib<b;ib++){int jb=0;   for
       ( ;   jb<52;){int st=y[ib];if(st >   jb)
         {s(   );}zz if(jb<st+3&&jb<26)   {h(
@@ -22,8 +22,8 @@
                ){s   ();}zz if(   jb<
                  52-   st){h()   ; }
                   zz{   s() ;   }jb
-                   ++;   }p   (
+                   ++;   }p   (//
                     "\n"     );}
                       /*<3<3*/
-                        }}//
+                        } //
                          //
