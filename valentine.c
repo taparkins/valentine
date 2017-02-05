@@ -1,6 +1,6 @@
           #define zz            else/*<3*/
        #define p( str )      write(1, str, 1)
-     void            s ()  { p(             " "\
+     void            s ()  { p(            " "\
     );}    void h()    {p("#"    );}int a    =79;
    int   b=20;int x[]   ={10   ,10,12,10,10   ,7,
   16,   6,16,7,5,4,12,   4,   2,4,12,4,5,4,3   ,4,
